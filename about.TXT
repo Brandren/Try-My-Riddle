@@ -1,0 +1,34 @@
+Group Name: Sytaxo
+Group Member: Aynsley Aaron Chong, Ng Jing Ping
+Group Number: Group 5
+Application Name: Try My Riddle!
+
+Application description:
+Our application (Try My Riddle!) is a game that provide a range of 50 or more questions from 
+general knowledge(logic), science, to music and movie. The user will have to answer the questions 
+provided and each question contain 100 points. The user will have 3 chances to guess the answer
+or moving on to another question if the user unable to answer it. After 3 tries, the application 
+will automatically stop calculating the score. 
+
+Objective:
+Our objective is to not only to provide entertainment but the user is able learn new things (knowledge) 
+and improving their critical and logical thinking skill.
+
+Scope:
+Our application has its strength and its limits. The strength of Try My Riddle! is easy to use. User 
+will only have to guess the answer and moving on if the question is difficult. However, the limit is 
+that the user only has 3 chances to answer the question.
+
+Game Instruction:
+This game should try the first question until the end question. First, you should enter your name and 
+your ID. After press 'enter' button on your keyboard, click the 'Start' button to start and the 'About' 
+button for application details. Read the information before you start the game. Click the 'Logic' button, 
+'Science' button, 'Music' button and 'Movie' button to start your game from the categories. Input your 
+answer and guesses on the blank rectangle boxes given beside the 'check' button. After you input your 
+answer, click the 'check' button to check your answer. If correct, add 100 score points and if wrong, 
+no score point. Each question have 3 tries to answer and move to next questions. Whatever your answer 
+correct or wrong, application will not calculate the score after 3 tries. If click 'check' without 
+answer (blank), the warning notification will coming out. Click the 'Next' button to next page and the
+ 'Back' button will turning back to the previous page. Click the 'back' button ,'Logic' button, 'Science' 
+button, 'Music' button, 'Movie' button, 'About' button and 'Start' button will refreshing the scores and 
+restart the game in each categories.

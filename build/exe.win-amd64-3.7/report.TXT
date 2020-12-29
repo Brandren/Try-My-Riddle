@@ -1,0 +1,106 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   Welcome to Try My Riddle!                   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Application report:
+This application have 80 questions in four categories.
+Four categories included Logic, Science, Music, Movie.
+Each categories have 20 questions.
+Created by Syntaxo
+Created by Aynsley Aaron Chong & Ng Jing Ping
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Logic Question:
+The Answer for Question  1 is A Clock
+The Answer for Question  2 is Short
+The Answer for Question  3 is Envelop
+The Answer for Question  4 is A Bottle
+The Answer for Question  5 is Post Office
+The Answer for Question  6 is An Egg
+The Answer for Question  7 is All Months
+The Answer for Question  8 is Trouble
+The Answer for Question  9 is Seven
+The Answer for Question 10 is W
+The Answer for Question 11 is Doorbell
+The Answer for Question 12 is Incorrectly
+The Answer for Question 13 is Sponge
+The Answer for Question 14 is Dictionary
+The Answer for Question 15 is Relationship
+The Answer for Question 16 is Your Age
+The Answer for Question 17 is Table
+The Answer for Question 18 is Add Letter G
+The Answer for Question 19 is Riverbank
+The Answer for Question 20 is V
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Science Question:
+The Answer for Question  1 is Elbert Einstein
+The Answer for Question  2 is Mercury
+The Answer for Question  3 is Esophagus
+The Answer for Question  4 is Thermoplastic
+The Answer for Question  5 is Coal
+The Answer for Question  6 is Atomic Number
+The Answer for Question  7 is Photosynthesis
+The Answer for Question  8 is Sodium Chloride
+The Answer for Question  9 is Mercury
+The Answer for Question 10 is Carbon Dioxide
+The Answer for Question 11 is Helium
+The Answer for Question 12 is Iron
+The Answer for Question 13 is Barometer
+The Answer for Question 14 is Oxygen And Hydrogen
+The Answer for Question 15 is Vitamin D
+The Answer for Question 16 is Tongue
+The Answer for Question 17 is Carbon Dioxide
+The Answer for Question 18 is Bone Marrow
+The Answer for Question 19 is Copper And Tin
+The Answer for Question 20 is White
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Music Question:
+The Answer for Question  1 is Demi Lovato
+The Answer for Question  2 is Owl City
+The Answer for Question  3 is Katy Perry
+The Answer for Question  4 is Justin Bieber
+The Answer for Question  5 is Maroon 5
+The Answer for Question  6 is 2013
+The Answer for Question  7 is Halsey
+The Answer for Question  8 is Umbrella
+The Answer for Question  9 is Shape Of You
+The Answer for Question 10 is Katy Perry
+The Answer for Question 11 is Something Just Like This
+The Answer for Question 12 is Canadian
+The Answer for Question 13 is Thinking out Loud
+The Answer for Question 14 is Beyonce
+The Answer for Question 15 is Symphony
+The Answer for Question 16 is Can’t stop the feeling
+The Answer for Question 17 is New Kids On The Block
+The Answer for Question 18 is Adam Levine
+The Answer for Question 19 is The Beatles
+The Answer for Question 20 is Grenade
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Movie Question:
+The Answer for Question  1 is Mystique
+The Answer for Question  2 is It
+The Answer for Question  3 is Oasis
+The Answer for Question  4 is San Andreas
+The Answer for Question  5 is Suicide Squad
+The Answer for Question  6 is Henry Cavill
+The Answer for Question  7 is Wade Wilson
+The Answer for Question  8 is Horror
+The Answer for Question  9 is Finding Nemo
+The Answer for Question 10 is Alice In Wonderland
+The Answer for Question 11 is Monster Inc
+The Answer for Question 12 is Fiona
+The Answer for Question 13 is Roger Moore
+The Answer for Question 14 is Toto
+The Answer for Question 15 is Frodo Baggins
+The Answer for Question 16 is Sixth Sense
+The Answer for Question 17 is Toys Story
+The Answer for Question 18 is Donkey
+The Answer for Question 19 is Pixar
+The Answer for Question 20 is Star Wars
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                       User   Report                            
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Username: Ng Jing Ping
+ID:101211418
+You open at Fri Jul 31 15:40:40 2020 before.
+Thank you ! 
+Ng Jing Ping
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
